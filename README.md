@@ -33,8 +33,20 @@ By default, it runs on `gemini-1.5-pro` and automatically falls back to `gemini-
 
 ---
 
-## 📸 Screenshot
-(Add a screenshot or GIF of your chatbot UI here)
+## 📸 Screenshots
+
+Here’s how the chatbot looks in action:
+
+![Chatbot Screenshot 1](Images/mlllll1.png)  
+
+
+![Chatbot Screenshot 2](Images/mllll2.png)  
+
+
+![Chatbot Screenshot 3](Images/mllll3.png)  
+
+
+
 
 ---
 
