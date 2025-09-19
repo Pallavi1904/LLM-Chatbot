@@ -39,9 +39,12 @@ Here’s how the chatbot looks in action:
 
 ![Chatbot Screenshot 1](Images/mlllll1.png)  
 
+---
 
 ![Chatbot Screenshot 2](Images/mllll2.png)  
 
+
+---
 
 ![Chatbot Screenshot 3](Images/mllll3.png)  
 
