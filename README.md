@@ -6,7 +6,7 @@ By default, it runs on `gemini-1.5-pro` and automatically falls back to `gemini-
 ---
 
 ## ✨ Features
-- 🚀 Powered by **Google Gemini API** (`gemini-1.5-pro` / `gemini-1.5-flash`)  
+- 🚀 Powered by **Google Gemini API** (`gemini-1.5-pro` / `gemini-1.5-flash`) 
 - 💬 Interactive chatbot UI built with **Streamlit**  
 - 🔄 Automatic **model fallback** when quota limits are hit  
 - 📝 Persistent **chat history** in the session  
