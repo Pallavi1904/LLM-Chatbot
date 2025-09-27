@@ -10,7 +10,7 @@ By default, it runs on `gemini-1.5-pro` and automatically falls back to `gemini-
 - 💬 Interactive chatbot UI built with **Streamlit**  
 - 🔄 Automatic **model fallback** when quota limits are hit  
 - 📝 Persistent **chat history** in the session  
-- 🔑 Secure API key handling with **dotenv**  
+- 🔑 Secure API key handling with **dotenv** 
 
 ---
 
